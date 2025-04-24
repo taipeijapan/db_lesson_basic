@@ -131,3 +131,4 @@ GROUP BY
   p.person_id
 HAVING
   count(r.content) = 0;
+  
